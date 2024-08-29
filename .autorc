@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "no-ctrl",
+  "repo": "container-n2j-tr4",
+  "name": "no-ctrl",
+  "email": "filip.c.mkd+1@gmail.com",
+}
